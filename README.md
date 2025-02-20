@@ -1,4 +1,4 @@
-# Multi-source Data Integration Quality
+# Improving Data Integration Quality for Multi-Source Analytics
 
 This project was built for IBM Internship Course for AI and Data Quality Analysis.
 
